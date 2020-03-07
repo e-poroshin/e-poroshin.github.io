@@ -1,10 +1,11 @@
-# **EUGENE POROSHIN**
+# **EUGENE POROSHIN** <br />
 
 **Skype:** zhenkanet <br />
 **Phone:** +375292846885 <br />
 **E-mail:** poroshin.eugene@gmail.com <br />
-**LinkedIn:** linkedin.com/in/eugene-poroshin <br />
-
+**LinkedIn:** [linkedin.com/in/eugene-poroshin](https://linkedin.com/in/eugene-poroshin) <br />
+<br />
+<br />
 
 ###         Objective
 Applying for the position of Junior Android developer.
@@ -18,8 +19,9 @@ I have some experience with Animation, Media and Camera, Location, ContentProvid
 I also have a basic understanding of Kotlin syntax, application architecture (MVC, MVP, MVVM) and reactive programming (RxJava and RxAndroid). <br />
 Used in training projects such libraries as: Room, OkHttp, Picasso, Glide, MPAndroidChart and etc. <br />
  <br />
-**English level:** Spoken language – Pre-Intermediate (A2) <br />
-                       Reading / writing – Intermediate (B1)
+**English level:** <br />
+Spoken language – Pre-Intermediate (A2) <br />
+Reading / writing – Intermediate (B1)
 
 ###         Experience
 2019-2020 – Trainee, IT Academy <br />
@@ -31,7 +33,7 @@ Used in training projects such libraries as: Room, OkHttp, Picasso, Glide, MPAnd
 ###         Education
 2019-2020 · IT Academy, Android Development – Junior <br />
 2019-2019 · IT Academy, Java Core <br />
-2009-2014 · BNTU, Accounting, analysis and audit – Economist <br />
+2009-2014 · BNTU, Accounting, analysis and audit – Economist
 
 ###         Additional Information
 [Portfolio](https://github.com/e-poroshin/android-course/tree/final_project) of my training projects includes such works as: Localization, View elements, Calculator, Database, Services and Broadcast Receivers, Content provider, Media player and Online weather forecast. The final work is a project Finance manager.
