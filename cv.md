@@ -1,8 +1,8 @@
-**EUGENE POROSHIN**
+# **EUGENE POROSHIN**
 
 **Skype:** zhenkanet
-**Phone:** +375292846885
-**E-mail:** poroshin.eugene@gmail.com
+\n**Phone:** +375292846885
+\n **E-mail:** poroshin.eugene@gmail.com
 **LinkedIn:** linkedin.com/in/eugene-poroshin
 
 
